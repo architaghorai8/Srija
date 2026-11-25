@@ -1,0 +1,6 @@
+{
+  "name": "eDNA BioScope",
+  "description": "Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets — Discover • Identify • Conserve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
